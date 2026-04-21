@@ -59,3 +59,4 @@ public class HistorialVentasUI extends JInternalFrame {
         txtHistorial.setCaretPosition(0);
     }
 }
+//gaaaaaaa
